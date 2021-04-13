@@ -8,3 +8,8 @@ Este proyecto incluye las resoluciones de Sudokus de 3 formas distintas:
 Los dos primeros ficheros están también vinculados a SudokuPlay.py, que cuenta con una interfaz gráfica basada en Pygame, aunque no es completamente jugable (no revisa errores ni revisa si está completado o no).
 
 El fichero TimingTestSudokus.py compara los tiempos de resolución de los distintos métodos.
+
+Versiones:
+- Python 3.7
+- Pygame 2.0.1
+- Numpy 1.19.5
